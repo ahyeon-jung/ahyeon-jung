@@ -1,4 +1,4 @@
-# Hello! Be happy today :D <br><br> I'm Ahoney :honeybee::honeybee::honeybee:
+# Hello! Be happy today :D <br> Good luck with your coding journey! <br><br> I'm Ahoney :honeybee::honeybee::honeybee:
 
 I'm a thoughtful, logical, knowledge-seeking person who enjoys using the latest web technologies to create cool projects! :rocket: 
 
