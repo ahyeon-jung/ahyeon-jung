@@ -20,8 +20,8 @@ I'm a thoughtful, logical, knowledge-seeking person who enjoys using the latest 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-0000FF?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 I also maintain a [blog](https://blog.naver.com/5128233) where I share what I've learned about React, JavaScript, and more.
 
