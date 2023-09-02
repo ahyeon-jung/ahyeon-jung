@@ -1,4 +1,4 @@
-# Hello! Be Happy Today :D <br> Good Luck with Your Coding Journey! <br><br> I'm Ahoney :honeybee::honeybee::honeybee:
+# Hello! Be Happy Today :D <br> Good Luck with Your Coding Journey! <br><br> I'm A Hyeon Jung :honeybee::honeybee::honeybee:
 
 I'm a thoughtful, logical, knowledge-seeking person who enjoys using the latest web technologies to create cool projects! :rocket: 
 
