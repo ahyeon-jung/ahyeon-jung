@@ -18,6 +18,6 @@ I'm a thoughtful, logical, knowledge-seeking person who enjoys using the latest 
 
 ## My Information :information_source:
 
-- My Portfolio: [A Hyeon Jung](https://www.notion.so/AHoney-3d974be936704cca9d835cf8024c719e?pvs=4)
+- My Portfolio: [A Hyeon Jung](https://warm-cashew-c58.notion.site/Ahyeon-Jung-3d974be936704cca9d835cf8024c719e?pvs=4))
 - My Email: [ahoney0512@gmail.com](mailto:ahoney0512@gmail.com)
 - My Tech Blog: [@a-honey](https://velog.io/@a-honey)
