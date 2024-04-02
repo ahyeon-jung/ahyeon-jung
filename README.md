@@ -21,3 +21,5 @@ I'm a thoughtful, logical, knowledge-seeking person who enjoys using the latest 
 - My Portfolio: [A Hyeon Jung](https://warm-cashew-c58.notion.site/Ahyeon-Jung-3d974be936704cca9d835cf8024c719e?pvs=4)
 - My Email: [ahoney0512@gmail.com](mailto:ahoney0512@gmail.com)
 - My Tech Blog: [@a-honey](https://velog.io/@a-honey)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa-honey&count_bg=%23FF8000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
