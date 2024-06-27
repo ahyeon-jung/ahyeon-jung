@@ -19,7 +19,6 @@ I'm a thoughtful, logical, knowledge-seeking person who enjoys using the latest 
 
 ## My Information :information_source:
 
-- My Portfolio: [A Hyeon Jung](https://warm-cashew-c58.notion.site/JUNG-AH-HYEON-b8e3e2cb74344e70ac0387923c72edad)
 - My Email: [ahoney0512@gmail.com](mailto:ahoney0512@gmail.com)
 - My Tech Blog: [@a-honey](https://a-honey.tistory.com/)
 
